@@ -1,4 +1,4 @@
-# Workshop - Step 2
+# Workshop - Step 3
 
 ## Expected result
 For each movie title add possibility to show a gif of a trailer
