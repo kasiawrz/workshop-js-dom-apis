@@ -7,7 +7,9 @@ Popular movies titles shown on the page.
 
 ## Steps
 
-1. based on the previous step, display list of movie titles in the DOM
+1. based on the previous step `*`, display list of movie titles in the DOM
+
+`*` If you haven't finished previous step, feel free to use code from main.js included here
 
 ## Docs
 
