@@ -16,4 +16,3 @@ main.js attached to this branch contains the result of the workshop
 - List of interresting places around Kazimierz, Krakow, Poland: http://kazimirapp.pl/streets.json
 - Finnish national museum: http://kokoelmat.fng.fi/api/v2support/docs/#/overview
 - Interresting polish books: https://polona.pl/api/
-- Smog in Krakow: http://www.smog.krakow.pl/api
