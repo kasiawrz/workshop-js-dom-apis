@@ -1,19 +1,19 @@
 # Workshop - Step 2
 
 ## Expected result
-Popular movies titles shown on the page.
+For each movie title add possibility to show a gif of a trailer
 
-<img src='http://i.imgur.com/i7u2BXY.png' alt='ouput tab on jsbin' width='444' />
+<img src='http://i.imgur.com/hGvkXBO.png' alt='ouput tab on jsbin' width='444' />
 
 ## Steps
 
-1. based on the previous step `*`, display list of movie titles in the DOM
+1. based on the previous step `*`, for each movie title on the list create a button
+1. this button, when clicked, should search for a gif trailer of that movie using Giphy API ( https://github.com/Giphy/GiphyAPI - use a public beta key )
+1. first matching gif should be displayed under the button, and the title, of the movie
 
 `*` If you haven't finished previous step, feel free to use code from main.js included here
 
 ## Docs
 
-- finding nodes in the DOM - `document.querySelector` - https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-- creating new DOM elements - `document.createElement` - https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
-- creating new text nodes - `document.createTextNode` - https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode
-- appending DOM elements to other DOM elements - https://developer.mozilla.org/en/docs/Web/API/Node/appendChild
+- listening for events - https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+- Giphy API docs - https://github.com/Giphy/GiphyAPI
