@@ -1,8 +1,9 @@
 # Workshop - Step 1
 
 ## Expected result
+Popular movies metadata printed to the console.
 
-![console output](http://i.imgur.com/jpsEDZO.png)
+<img src='http://i.imgur.com/jpsEDZO.png' alt='console output' width='444' />
 
 ## Steps
 
