@@ -12,7 +12,7 @@ fetch(url)
     .then(showListOfMovies);
 
 
-const APIurl = 'http://api.giphy.com/v1/gifs/search?q=',
+const APIurl = 'https://api.giphy.com/v1/gifs/search?q=',
     APIkey = '&api_key=dc6zaTOxFJmzC';
 
 ul.style.lineHeight = '20px';
